@@ -207,7 +207,7 @@ Promise.all([
         setStoryState("ssp585", 2100);
       }
     });
-  }, { threshold: 0.6 });
+  }, { threshold: 0.35 });
 
   steps.forEach(step => stepObserver.observe(step));
 });
