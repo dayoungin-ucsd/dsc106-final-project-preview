@@ -355,7 +355,7 @@ function drawLineChart() {
     .range([0, innerW]);
 
   const y = d3.scaleLinear()
-    .domain([-1, d3.max(data, d => Math.max(d.ssp126, d.ssp585)) + 0.6])
+    .domain([-1, 14])
     .nice()
     .range([innerH, 0]);
 
