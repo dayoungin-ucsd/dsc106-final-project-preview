@@ -1093,3 +1093,8 @@ html {
   stroke: #d6dee9;
   stroke-width: 1.5;
 }
+
+#dashboard-main-anchor {
+  position: relative;
+  top: -70px;
+}
