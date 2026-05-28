@@ -958,7 +958,7 @@ input[type="range"] {
 .scrolly-steps {
   display: flex;
   flex-direction: column;
-  gap: 25vh;
+  gap: 40vh;
   max-width: 560px;
 }
 
