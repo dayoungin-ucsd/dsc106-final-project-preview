@@ -1098,3 +1098,11 @@ html {
   position: relative;
   top: -70px;
 }
+
+.variable-display {
+  padding: 14px 18px;
+  border-radius: 8px;
+  background: white;
+  border: 1px solid #dce3ec;
+  font-weight: 800;
+}
